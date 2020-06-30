@@ -1,0 +1,6 @@
+test 150
+jose 0
+yago 860
+roberto 0
+Larissa 350
+joao 6100
